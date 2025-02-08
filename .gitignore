@@ -1,0 +1,4 @@
+*.log
+DerivedDataCashe/
+Intermediate/
+Saved/
